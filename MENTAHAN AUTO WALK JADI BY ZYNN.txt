@@ -737,7 +737,7 @@ InfoTab:Button({
 
 -- Info Tab
 InfoTab:Section({
-    Title = "TERMAKASIH SUDAH MENGGUNAKAN SCRIPT INI TQ ",
+    Title = "TERMAKASIH SUDAH ORDER PREMIUM SCRIPT ",
     TextSize = 20,
 })
 InfoTab:Section({
@@ -778,7 +778,7 @@ Draggable = true,
 
 -- Tambah tag
 Window:Tag({
-    Title = "FREE USER",
+    Title = "PREMIUM",
     Color = Color3.fromHex("#30ff6a"),
     Radius = 10,
 })
